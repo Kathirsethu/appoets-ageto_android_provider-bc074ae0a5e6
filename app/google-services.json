@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "607086236238",
+    "firebase_url": "https://hcr-driver-default-rtdb.firebaseio.com",
+    "project_id": "hcr-driver",
+    "storage_bucket": "hcr-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607086236238:android:49faaa356354f4ea2a691f",
+        "android_client_info": {
+          "package_name": "com.healthcareride.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607086236238-jncga4egn4odfsj9kkbumuohl0pra3dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthcareride.partner",
+            "certificate_hash": "10b8d31cd36eee8a17fdf3384a9bf75531b7918d"
+          }
+        },
+        {
+          "client_id": "607086236238-o2tljshgdgrha23uuo877dkoikcjkel9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthcareride.partner",
+            "certificate_hash": "3b617c930141909b1d0794fad8519d4fd9f5e8d3"
+          }
+        },
+        {
+          "client_id": "607086236238-60qmgvnvkp0okm431tq58v2dqmcjs953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWmT6G4WBfoluLQaIET0BSeAOa4Slbi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607086236238-60qmgvnvkp0okm431tq58v2dqmcjs953.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607086236238-mhr41djfjm5meifp3q32d4dj9g37frgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healthcare.provider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
